@@ -28,5 +28,10 @@ The locals tell me that Skampfoots commune with the desert and primarily eat
 actually know was edible at all. But it is believed that the energy stored in
 the sand not only feeds them, but may even be the source of new baby Skamps.
 
+They have camoflauged, sandy fur, white with a tinge of gray-blue, matching the
+sprawl of Uldura. The only exception is their navy-blue nose, which you'll
+sometimes find poking out of the dunes when they're burrowing for warmth at
+night.
+
 They are quirky things, eager to interact and with a lot of wisdom to offer, for
 those willing to listen.
