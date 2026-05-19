@@ -24,17 +24,17 @@ porcelain dust.
 
 Listed here, alongside their element(s).
 
-- [Insa](./insa.md)
-    - _Glass_
-- [Vela](./vela.md)
-    - _Wind_
 - [Cereba](./cereba.md)
     - _Mind_
-- [Fara](./fara.md)
-    - _Blaze_
-- [Lesia](./lesia.md)
-    - _Blood_
 - [Chama](./chama.md)
     - _Water_
 - [Ethera](./ethera.md)
     - _Soul_
+- [Fara](./fara.md)
+    - _Blaze_
+- [Insa](./insa.md)
+    - _Glass_
+- [Lesia](./lesia.md)
+    - _Blood_
+- [Vela](./vela.md)
+    - _Wind_
