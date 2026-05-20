@@ -11,9 +11,9 @@ Long days give way to longer nights; each is comprised of several of the days
 I'm used to. The [elders](/elders/elders.md) here are primal and forceful,
 making their presence known far more than we might be used to.
 
-The people are resilient and strong, and fiercely communal, although infighting
-does crop up from time to time. War, however, is unheard of. No one on this
-world needs help to die.
+The [ people ](/people/people.md) are resilient and strong, and fiercely
+communal, although infighting does crop up from time to time. War, however, is
+unheard of. No one on this world needs help to die.
 
 ## Outline
 

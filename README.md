@@ -12,5 +12,6 @@ during my time here.
 ## Table of Contents
 
 - [Elders](/elders/elders.md)
+- [People](/people/people.md)
 - [Wildlife](/wildlife/wildlife.md)
 - [World](/world/world.md)
