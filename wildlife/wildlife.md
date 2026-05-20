@@ -10,7 +10,9 @@ hearty resilience against the elements.
 
 - Magical
 - Simple
+    - [Bleachgrass](/wildlife/flora/simple/bleachgrass.md)
     - [Cuctas](/wildlife/flora/simple/cuctas.md)
+    - [Direshrub](/wildlife/flora/simple/direshrub.md)
 - Spiritual
     - [Bloodsand](/wildlife/flora/spiritual/bloodsand.md)
 
@@ -18,7 +20,9 @@ hearty resilience against the elements.
 
 - Aggressive
 - Defensive
+    - [Tortolith](/wildlife/fauna/defensive/tortolith.md)
 - Peaceful
     - [Skampfoot](/wildlife/fauna/peaceful/skampfoot.md)
     - [Icepetal](/wildlife/fauna/peaceful/icepetal.md)
 - Unnatural
+    - [Monad](/wildlife/fauna/unnatural/monad.md)
