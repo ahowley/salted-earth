@@ -21,5 +21,7 @@ unheard of. No one on this world needs help to die.
 - Regions
     - [The Dune Sea](/world/regions/the-dune-sea/the-dune-sea.md)
         - [The Valley of Concordance](/world/regions/the-dune-sea/the-valley-of-concordance.md)
+    - [The Harmonic Blossom](/world/regions/the-harmonic-blossom/the-harmonic-blossom.md)
+        - [Sharalum](/world/regions/the-harmonic-blossom/sharalum.md)
 - Settlements
 - Societies

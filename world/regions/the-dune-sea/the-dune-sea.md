@@ -7,11 +7,13 @@
 
 - [The Valley of Concordance](./the-valley-of-concordance.md)
 
-The Dune Sea occupies the majority of Uldura, and would be better described by
-most of our standards as a mountain range, were it not for every mountain being
-comprised exclusively of soft sand. Many of them nonetheless take unnervingly
-geometric shapes that often appear impossible, held in place by what can only be
-described as a mystical resonance.
+### Overview
+
+The Dune Sea occupies a wide swath of south-central Uldura, and would be better
+described by most of our standards as a mountain range, were it not for every
+mountain being comprised exclusively of soft sand. Many of them nonetheless take
+unnervingly geometric shapes that often appear impossible, held in place by what
+can only be described as a mystical resonance.
 
 By all accounts, the Sea is a death sentence to any life who wanders in
 unprepared, and most that enters prepared, too. A barren wasteland, physically
