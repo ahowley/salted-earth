@@ -5,6 +5,9 @@
 
 ## Overview
 
+A tall, hulking livestock-like rock beast with a horn that often carries the
+remains of uncautious passersby.
+
 ## Diet
 
 - [Bleachgrass](/wildlife/flora/simple/bleachgrass.md)

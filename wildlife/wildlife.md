@@ -19,6 +19,7 @@ hearty resilience against the elements.
 ## Fauna
 
 - Aggressive
+    - [Raptid](/wildlife/fauna/aggressive/raptid.md)
 - Defensive
     - [Tortolith](/wildlife/fauna/defensive/tortolith.md)
 - Peaceful
