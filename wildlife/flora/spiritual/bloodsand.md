@@ -27,5 +27,5 @@ quicksand, coordinating grains of salt and earth in a symphonic way.
 
 Local cultures tell us that bloodsand can be used as a way for
 [the Elders](/elders/elders.md) to judge our alignment and movement with the
-Primordia. Despite my skepticism, it is true that it becomes much more dangers
+Primordia. Despite my skepticism, it is true that it becomes much more dangerous
 when those traversing it carry with them violent intent.
