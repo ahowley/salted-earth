@@ -13,5 +13,6 @@ during my time here.
 
 - [Elders](/elders/elders.md)
 - [People](/people/people.md)
+- [Reference](/reference/reference.md)
 - [Wildlife](/wildlife/wildlife.md)
 - [World](/world/world.md)

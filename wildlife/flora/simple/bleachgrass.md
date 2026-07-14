@@ -13,6 +13,7 @@ Unknown
 
 ## Consumed by
 
+- [Caynon](/wildlife/fauna/peaceful/caynon.md)
 - [Tortolith](/wildlife/fauna/defensive/tortolith.md)
 
 ## Notes

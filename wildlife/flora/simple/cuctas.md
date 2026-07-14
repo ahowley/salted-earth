@@ -15,7 +15,9 @@ hypothesize they could live for many centuries.
 
 ## Consumed By
 
+- [Caynon](/wildlife/fauna/peaceful/caynon.md)
 - [Skampfoot](/wildlife/fauna/peaceful/skampfoot.md)
+- [Stingcrawler](/wildlife/fauna/aggressive/stingcrawler.md)
 
 ## Notes
 
