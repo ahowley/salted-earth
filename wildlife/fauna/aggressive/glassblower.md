@@ -11,7 +11,7 @@ body the size of most harmoni, with double the wingspan.
 
 ## Diet
 
-- [People](../../../people/people.md)
+- [People](/people/people.md)
 - Any flesh that cooks
 
 ## Lifespan
