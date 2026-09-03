@@ -9,12 +9,12 @@ familiar are documented here.
 
 ## Familiar Species
 
-- [Avi](./avi.md)
 - [Harmoni](./harmoni.md)
-- [Kin](./kin.md)
+- [Avi](./avi.md)
 
 ## Unique to Uldura
 
+- [Kin](./kin.md)
 - [Golems](./golems.md)
     - Water Golem
     - Blaze Golem
