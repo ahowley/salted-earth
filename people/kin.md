@@ -61,6 +61,11 @@ perhaps unsurprisingly, as she is seen to provide water to those who reside
 here. Nevertheless, there seems to be no meaningful reference to the
 [Primordia](../primordia/primordia.md) that I have encountered thus far.
 
+Their voices are tonal and often gentle or soothing in a way that seems like it
+could extend beyond the natural. They seem to have an additional mode of
+communication among them that involves basic tones and pitches that resonate off
+of their bodies, as opposed to speech.
+
 Much of their storytelling, at least in the form I received, revolves around
 myths about great individuals communing with or conquering grand, unknown
 forces. Maybe this is where the Primordia show their faces; then again, perhaps
